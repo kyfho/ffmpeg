@@ -1,0 +1,1 @@
+ffmpeg -i /d/movies/NBA/1986/NBA.1986.FINALS.\(01\ june\).G3.BOS.Celtics.vs.HOU.Rockets/NBA\ Finals\ 1986\ -\ Game3\ part\ 1\ -\ Celtics\ vs\ Rockets.avi -strict -2 86-nba-finals-bos-hous-g3.mp4 
